@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">investment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="investment">計算IRR</string>
+    <string name="a0">投資金額</string>
+    <string name="expectedReturn">報酬</string>
+    <string name="year">年數</string>
+    <string name="submit">Submit</string>
+</resources>
